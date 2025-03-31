@@ -1,1 +1,2 @@
 Este es el archivo final :) de el ejercicio integrador git
+Quiero generar conflictos
